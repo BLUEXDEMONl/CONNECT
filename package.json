@@ -1,0 +1,30 @@
+{
+  "name": "tele-bot-connect",
+  "version": "1.0.0",
+  "description": "A telegram bot make by BLUE-DEMON",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "author": "BLUE-DEMON",
+  "license": "ISC",
+    "dependencies": {
+    "telegraf": "^4.16.3",
+    "axios": "^1.7.7",
+    "js-confuser": "^1.7.3",
+    "@whiskeysockets/baileys": "^6.7.9",
+    "axios": "^1.5.0",
+    "fs": "latest",
+    "path": "latest",
+    "pino": "^8.14.0",
+    "sharp": "^0.32.6",
+    "node-cache": "^5.1.2",
+    "libphonenumber-js": "^1.10.22",
+    "readline": "latest",
+    "fluent-ffmpeg": "^2.1.3",
+    "yt-search": "^2.10.7",
+    "moment": "^2.29.1",
+    "dotenv": "^16.1.4"
+    }
+}
